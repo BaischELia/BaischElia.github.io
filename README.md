@@ -1,7 +1,7 @@
 # Elia Baisch Portfolio
-Willkommen in meinem Portfolio-Repository! Hier finden Sie eine Zusammenstellung meiner besten Arbeiten und Projekte aus dem Bereich Medieninformatik.
+Welcome to my portfolio repository! Here you will find a compilation of my best work and projects in the field of media informatics.
 
-## Über mich
-Ich bin Elia Baisch, ein Medieinformatiker mit Leidenschaft für UX/UI/Graphic/Visual Design, Web/App Development. Mein Ziel ist es, innovative und kreative Lösungen zu entwickeln und meine Fähigkeiten ständig zu erweitern.
+## About me
+I am Elia Baisch, a media formatter with a passion for UX/UI/Graphic/Visual Design, Web/App Development. My goal is to develop innovative and creative solutions and constantly expand my skills.
 
-Vielen Dank für Ihren Besuch!
+Thank you for your visit!
